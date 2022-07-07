@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6SyntaxError9
+- 👋 Hi, I’m (@6SyntaxError9) Kshitiz Sharma.
 - 👀 I’m interested in Computer Science & Information Technology.
 - 🌱 I’m currently learning Analytics, Blockchain, Cloud & Data Science.
 - 💞️ I’m looking to collaborate on ...
